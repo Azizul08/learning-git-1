@@ -1,4 +1,5 @@
 -[Zonayed Ahmed] https://github.com/zonayedpca/learning-git
 -[ThemeRed] https://github.com/ThemeRed/learning-git
--[Zonayed Demo] https://github.com/zonayeddemo/learning-git
+-[Zonayed Demo] https://github.com/zonayeddemo/learni
 -[Ganguly] https://github.com/saadakaalo/learning-git
+  https://github.com/Azizul08/learning-git-1ng-git
